@@ -1,4 +1,4 @@
-# School project on Fashion MNIST dataset. 
+# School project on the FashionMNIST dataset. 
 
 The batch size of 100 worked well while having three convolutional layers.
 I tried different learning rates and number of epochs. And ended up using 5 epochs and a learning rate of 0.0005.
